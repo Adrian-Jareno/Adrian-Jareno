@@ -1,5 +1,12 @@
 ## Hi there 👋
 <h2> Hey there! I'm Adrian</h2>
+<!--  contador on live
+<p align="left">
+  <a href="https://github.com/Adrian-Jareno">
+    <img src="https://komarev.com/ghpvc/?username=Adrian-Jareno&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+-->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
